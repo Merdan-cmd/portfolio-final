@@ -1,0 +1,43 @@
+footer{
+    background: #161616;
+   color: rgba(255, 255, 255, .7);
+    
+    .footer-content{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 64px 100px 100px 100px
+        
+    };
+}
+
+.footer-left{
+    display: grid;
+    gap: 32px;
+img{
+    max-width: 60px;
+
+}
+
+    ul{
+        display: flex;
+        gap: 16px;
+
+        li{
+            list-style-type: none;
+            font-family: 'Open Sans';
+
+            a{
+                color: #aa96da;
+            }
+        }
+        }
+}
+
+.footer-right{
+    text-align: right;
+    display: grid;
+    gap: 16px;
+    
+}
+

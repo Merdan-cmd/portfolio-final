@@ -1,0 +1,44 @@
+.contactme{
+    overflow: hidden;
+   
+
+        h2{
+            font-size: 6rem;
+            white-space: nowrap;
+            transform: translateX(100%);
+            animation: scroll-text infinite linear 20s reverse;
+          }
+    }
+
+
+.contact{
+   padding-block: 2%;
+    display: grid;
+   place-items: center;
+
+   h2{
+    margin: auto;
+   }
+
+  a{
+    font-size: 1.6rem;
+    font-family: 'N27';
+    color: #aa96da;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+    .contact{
+        a{
+            font-size: 2rem;
+        }
+    }
+}
+
+
+
+// @keyframes scroll-text {
+//     from{
+//       transform: translateX(-10%);
+//     }  to{transform:translateX(100%)}
+//     }

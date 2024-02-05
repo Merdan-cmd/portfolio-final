@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630.25 945.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1abcfe;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #0acf83;
+      }
+
+      .cls-3 {
+        fill: #a259ff;
+      }
+
+      .cls-4 {
+        fill: #ff7262;
+      }
+
+      .cls-5 {
+        fill: #f24e1e;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <path id="path0_fill" data-name="path0 fill" class="cls-2" d="m157.56,945.37c86.97,0,157.56-70.59,157.56-157.56v-157.56h-157.56C70.59,630.25,0,700.84,0,787.81s70.59,157.56,157.56,157.56Z"/>
+      <path id="path1_fill" data-name="path1 fill" class="cls-3" d="m0,472.69c0-86.97,70.59-157.56,157.56-157.56h157.56v315.12h-157.56C70.59,630.25,0,559.66,0,472.69Z"/>
+      <path id="path1_fill-2" data-name="path1 fill" class="cls-5" d="m0,157.56C0,70.59,70.59,0,157.56,0h157.56v315.12h-157.56C70.59,315.12,0,244.54,0,157.56Z"/>
+      <path id="path2_fill" data-name="path2 fill" class="cls-4" d="m315.12,0h157.56c86.97,0,157.56,70.59,157.56,157.56s-70.59,157.56-157.56,157.56h-157.56V0Z"/>
+      <path id="path3_fill" data-name="path3 fill" class="cls-1" d="m630.25,472.69c0,86.97-70.59,157.56-157.56,157.56s-157.56-70.59-157.56-157.56,70.59-157.56,157.56-157.56,157.56,70.59,157.56,157.56Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,80 @@
+.skills-container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 10%;
+
+    .skills-illustration{
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+.skills-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+  
+}
+
+.skills-box-container{
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: wrap;
+    gap: 10px;
+    margin-top: 16px;
+    .skill-box{
+        display: flex;
+        justify-content: center;
+        align-items: center
+;
+        background-color: #6c38b8;
+        padding: 2%;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        font-weight: 700;
+        font-family: "Open Sans", sans-serif;
+}
+
+}
+
+.technologies-container{
+    background: #441983;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    padding: 5%;
+    gap: 5%;
+
+    .technology{
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 6%;
+    }
+
+    .figma{
+        max-width: 50px;
+    }
+
+    img{
+        max-width: 70px;
+        height: auto;
+    }
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .skills-container{
+        flex-direction: column;
+    }
+
+    .technologies-container{
+        flex-direction: column;
+        justify-content: center;
+        gap: 32px;
+        padding: 32px;
+    }
+  }
